@@ -45,9 +45,9 @@ Desenvolvedor web full-stack, graduado em Matemática, estou em constante contat
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-Willian_Portela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-willianportela1@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/will-796?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: SEU NOME](https://img.shields.io/badge/-Willian_Portela-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willian-portela/)](LINK-DO-SEU-LINKEDIN)
+[![Gmail Badge](https://img.shields.io/badge/-willianportela1@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:willianportela1@gmail.com)](mailto:SEU-EMAIL)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/will-796?label=follow&style=social)](https://github.com/will-796)
 
 <!--
 **will-796/will-796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
